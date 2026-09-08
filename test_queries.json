@@ -1,0 +1,165 @@
+[
+  {
+    "query": "Where did the group decide to go for the trip?",
+    "expected_message": "chalo Manali fix hai"
+  },
+  {
+    "query": "What destination was finalized for the trip?",
+    "expected_message": "chalo Manali fix hai"
+  },
+  {
+    "query": "What place did everyone finally agree on?",
+    "expected_message": "Manali toh mast hai"
+  },
+  {
+    "query": "Who suggested Manali as the destination?",
+    "expected_message": "Manali kaisa rahega?"
+  },
+  {
+    "query": "What was the approximate hotel cost?",
+    "expected_message": "4 rooms around 24000 total"
+  },
+  {
+    "query": "How much would accommodation cost per person?",
+    "expected_message": "8 log hain toh 3k each hotel"
+  },
+  {
+    "query": "What was the agreed departure plan?",
+    "expected_message": "11 April night departure"
+  },
+  {
+    "query": "When would the group return?",
+    "expected_message": "14 ko return"
+  },
+  {
+    "query": "Which hotel was finally selected?",
+    "expected_message": "hotel Sneha wala hi kar dete hain"
+  },
+  {
+    "query": "Was the mountain trip finally confirmed?",
+    "expected_message": "chalo Manali fix hai"
+  },
+
+  {
+    "query": "What technology stack did the group choose?",
+    "expected_message": "Python + FastAPI + Streamlit + SQLite"
+  },
+  {
+    "query": "Which backend framework was selected?",
+    "expected_message": "backend FastAPI"
+  },
+  {
+    "query": "What frontend solution did they settle on?",
+    "expected_message": "Streamlit enough for demo"
+  },
+  {
+    "query": "Which database was finally chosen?",
+    "expected_message": "SQLite"
+  },
+  {
+    "query": "Did they decide to use React?",
+    "expected_message": "mujhe lagta hai React ki zarurat nahi"
+  },
+  {
+    "query": "Why did they prefer Streamlit?",
+    "expected_message": "agar ML project hai toh Streamlit easy rahega"
+  },
+  {
+    "query": "What was the final backend frontend combination?",
+    "expected_message": "Python + FastAPI + Streamlit + SQLite"
+  },
+  {
+    "query": "What did they decide about database complexity?",
+    "expected_message": "haan unnecessary complexity mat lao"
+  },
+  {
+    "query": "Was Docker part of the final decision?",
+    "expected_message": "time mile toh"
+  },
+  {
+    "query": "What stack was confirmed for the prototype?",
+    "expected_message": "toh final stack confirm?"
+  },
+
+  {
+    "query": "Which venue did the group finally select?",
+    "expected_message": "Ring Road wala venue final karte hain"
+  },
+  {
+    "query": "Where will the farewell be held?",
+    "expected_message": "Ring Road wala venue final karte hain"
+  },
+  {
+    "query": "What was the maximum budget per person?",
+    "expected_message": "around 1500 per person max"
+  },
+  {
+    "query": "How much would dinner cost per person at the selected place?",
+    "expected_message": "1300 per head including dinner"
+  },
+  {
+    "query": "Did the chosen venue have parking?",
+    "expected_message": "large parking"
+  },
+  {
+    "query": "What time was the venue available?",
+    "expected_message": "7 to 11 available"
+  },
+  {
+    "query": "Was music included at the venue?",
+    "expected_message": "haan basic setup included"
+  },
+  {
+    "query": "Could they bring a cake from outside?",
+    "expected_message": "yes"
+  },
+  {
+    "query": "What food options were available?",
+    "expected_message": "veg + nonveg dono options hain"
+  },
+  {
+    "query": "Why was the Railway Road place rejected?",
+    "expected_message": "then reject"
+  },
+
+  {
+    "query": "What did Rahul finally confirm about the trip?",
+    "expected_message": "chalo Manali fix hai"
+  },
+  {
+    "query": "What did Priya say about the hotel budget?",
+    "expected_message": "8 log hain toh 3k each hotel"
+  },
+  {
+    "query": "What did Vikash suggest to reduce travel cost?",
+    "expected_message": "bus se chale toh cost kam ho jayega"
+  },
+  {
+    "query": "What did Ananya suggest regarding the bus?",
+    "expected_message": "Delhi se Volvo ka option bhi hai"
+  },
+  {
+    "query": "What did Priya say about the project frontend?",
+    "expected_message": "Streamlit enough for demo"
+  },
+  {
+    "query": "What did Neha say about React?",
+    "expected_message": "React thoda time consuming hoga"
+  },
+  {
+    "query": "What did Priya say about the farewell venue price?",
+    "expected_message": "1300 per head including dinner"
+  },
+  {
+    "query": "What did Neha decide after checking the parking?",
+    "expected_message": "then reject"
+  },
+  {
+    "query": "What did Rahul say after the venue discussion?",
+    "expected_message": "mere side se yes"
+  },
+  {
+    "query": "What was the final farewell decision?",
+    "expected_message": "Ring Road wala venue final karte hain"
+  }
+]
